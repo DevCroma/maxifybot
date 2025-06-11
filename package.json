@@ -1,0 +1,14 @@
+{
+  "name": "maxifybot",
+  "version": "1.0.0",
+  "description": "Maxify.gg Discord Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security"
+  }
+}
